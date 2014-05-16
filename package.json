@@ -1,0 +1,33 @@
+{
+  "name": "shoelace-ui-reset",
+  "version": "0.0.1",
+  "description": "a collection of reset mixins",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shoelace-ui/reset"
+  },
+  "keywords": [
+    "reset",
+    "shoelace-ui"
+  ],
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shoelace-ui/reset/issues"
+  },
+  "homepage": "https://github.com/shoelace-ui/reset",
+  "dependencies": {
+    "shoelace-ui-global-reset": "git://github.com/shoelace-ui/global-reset.git",
+    "shoelace-ui-reset-font": "git://github.com/shoelace-ui/reset-font.git",
+    "shoelace-ui-reset-box-model": "git://github.com/shoelace-ui/reset-box-model.git",
+    "shoelace-ui-reset-table": "git://github.com/shoelace-ui/reset-table.git",
+    "shoelace-ui-reset-table-cell": "git://github.com/shoelace-ui/reset-table-cell.git",
+    "shoelace-ui-reset-body": "git://github.com/shoelace-ui/reset-body.git",
+    "shoelace-ui-reset-html5": "git://github.com/shoelace-ui/reset-html5.git",
+    "shoelace-ui-nested-reset": "git://github.com/shoelace-ui/nested-reset.git"
+  }
+}

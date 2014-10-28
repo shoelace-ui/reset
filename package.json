@@ -1,33 +1,30 @@
 {
   "name": "shoelace-ui-reset",
-  "version": "0.0.1",
-  "description": "a collection of reset mixins",
-  "main": "index.styl",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.1.0",
+  "description": "Collection of reset mixins",
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git://github.com/shoelace-ui/reset"
   },
+  "homepage": "https://github.com/shoelace-ui/reset",
   "keywords": [
-    "reset",
-    "shoelace-ui"
+    "shoelace",
+    "stylus",
+    "reset"
   ],
-  "author": "Brannon Lucas <brannonlucas@gmail.com>",
-  "license": "MIT",
+  "dependencies": {
+    "shoelace-ui-global-reset": "^0.1.0",
+    "shoelace-ui-reset-font": "^0.1.0",
+    "shoelace-ui-reset-box-model": "^0.1.0",
+    "shoelace-ui-reset-table": "^0.1.0",
+    "shoelace-ui-reset-table-cell": "^0.1.0",
+    "shoelace-ui-reset-body": "^0.1.0",
+    "shoelace-ui-reset-html5": "^0.1.0",
+    "shoelace-ui-nested-reset": "^0.1.0"
+  },
   "bugs": {
     "url": "https://github.com/shoelace-ui/reset/issues"
-  },
-  "homepage": "https://github.com/shoelace-ui/reset",
-  "dependencies": {
-    "shoelace-ui-global-reset": "git://github.com/shoelace-ui/global-reset.git",
-    "shoelace-ui-reset-font": "git://github.com/shoelace-ui/reset-font.git",
-    "shoelace-ui-reset-box-model": "git://github.com/shoelace-ui/reset-box-model.git",
-    "shoelace-ui-reset-table": "git://github.com/shoelace-ui/reset-table.git",
-    "shoelace-ui-reset-table-cell": "git://github.com/shoelace-ui/reset-table-cell.git",
-    "shoelace-ui-reset-body": "git://github.com/shoelace-ui/reset-body.git",
-    "shoelace-ui-reset-html5": "git://github.com/shoelace-ui/reset-html5.git",
-    "shoelace-ui-nested-reset": "git://github.com/shoelace-ui/nested-reset.git"
   }
 }

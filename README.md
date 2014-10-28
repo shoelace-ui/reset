@@ -1,11 +1,13 @@
 # reset
-collection of reset mixins
 
-## Installation
-```sh
-$ npm install git://github.com/shoelace-ui/reset.git
+Collection of reset mixins
+
+## Usage
+
+```stylus
+@require 'shoelace-ui-reset'
 ```
 
 ## License
 
-[MIT](./LICENSE)
+MIT

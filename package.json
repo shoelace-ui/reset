@@ -20,7 +20,7 @@
     "shoelace-ui-reset-box-model": "^0.1.0",
     "shoelace-ui-reset-table": "^0.1.0",
     "shoelace-ui-reset-table-cell": "^0.1.0",
-    "shoelace-ui-reset-body": "^0.1.0",
+    "shoelace-ui-reset-body": "^0.1.1",
     "shoelace-ui-reset-html5": "^0.1.0",
     "shoelace-ui-nested-reset": "^0.1.0"
   },
